@@ -7,4 +7,5 @@ enum class ClientType {
     KIMI,
     MINIMAX,
     DEEPSEEK,
+    GEMINI,
 }
